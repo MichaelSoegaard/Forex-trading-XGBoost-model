@@ -5,6 +5,7 @@ This is a XGBoost model i made to test how well it could handle the noisy forex 
 To tune hyperparameters I used GridsearchCV from Sklearn, but the cross validation mad it pretty slow to do just a quick test of parameters. Instead I made a function which did it without cv.
 
 I tested it as classification model. 4 actions:
+ 
  0. Do nothing
  1. Buy
  2. Sell
