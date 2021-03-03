@@ -1,4 +1,4 @@
-# XGBoost_models
+# Forex trading script based on a XGBoost model
 
 This is a XGBoost model i made to test how well it could handle the noisy forex dataset from my reinforcement learning project. It actually did a very decent job. It showed a drawdown in the long run, but not that bad.
 
